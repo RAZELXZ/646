@@ -1,3 +1,3 @@
-Node classification
+Stable Diffusion
 
-Dataset: https://drive.google.com/drive/folders/1HfTjTw-xGpX5Om7W9TKK3gfTzm7ESR1j?usp=drive_link
+Dataset: https://www.kaggle.com/datasets/balabaskar/tom-and-jerry-image-classification?source=post_page-----68943171bd8a--------------------------------
